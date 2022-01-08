@@ -1,0 +1,16 @@
+{
+  "name": "final-form-extra",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/cli": "7.16.7",
+    "@babel/core": "7.16.7",
+    "@babel/preset-env": "7.16.7",
+    "@babel/preset-typescript": "7.16.7",
+    "@types/jest": "27.4.0",
+    "babel-jest": "27.4.6",
+    "jest": "27.4.7"
+  }
+}
